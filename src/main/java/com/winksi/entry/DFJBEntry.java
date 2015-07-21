@@ -2,9 +2,8 @@ package com.winksi.entry;
 
 import com.winksi.util.DFJBParse;
 
-/**
- * Created by zhoulei on 2014/12/8.
- */
+
+
 public class DFJBEntry {
     public static void main(String[] args) throws InterruptedException {
         DFJBParse dfjbEntry = new DFJBParse();
